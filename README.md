@@ -28,7 +28,7 @@ The primary goal of this project is to provide a comprehensive view of sales per
 4. *(Optional)* View the static screenshots in the `images/` folder if you do not have PowerBI installed.
 
 ## 👨‍💻 Author
-**Ritesh Kumar Ranjan**
+**Ritesh Kumar **
 * Aspiring Business Analyst 
 * Connect with me on LinkedIn: [www.linkedin.com/in/connectritesh]
 
