@@ -1,6 +1,6 @@
 # mobile-phone-sales-
 A PowerBI dashboard analyzing regional sales data to identify revenue drivers and performance trends. Visualizes key metrics like YoY growth, top product lines, and customer demographics to empower data-driven decision-making and optimize business strategies.
-"""# Regional Sales Performance Dashboard 📊
+# Regional Sales Performance Dashboard 📊
 
 A PowerBI dashboard analyzing regional sales data to identify revenue drivers and performance trends. Visualizes key metrics like YoY growth, top product lines, and customer demographics to empower data-driven decision-making and optimize business strategies.
 
@@ -33,6 +33,3 @@ The primary goal of this project is to provide a comprehensive view of sales per
 * Connect with me on LinkedIn: [Insert your LinkedIn Profile URL]
 """
 
-
-print("README.md generated successfully.")
-print("[file-tag: code-generated-file-readme]")
