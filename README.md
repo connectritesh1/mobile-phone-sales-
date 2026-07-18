@@ -30,6 +30,6 @@ The primary goal of this project is to provide a comprehensive view of sales per
 ## 👨‍💻 Author
 **Ritesh Kumar Ranjan**
 * Aspiring Business Analyst 
-* Connect with me on LinkedIn: [Insert your LinkedIn Profile URL]
-"""
+* Connect with me on LinkedIn: [www.linkedin.com/in/connectritesh]
+
 
